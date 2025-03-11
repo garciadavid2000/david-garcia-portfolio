@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag2 on Terminal</title>
+    <link>http://localhost:1313/tags/tag2/</link>
+    <description>Recent content in Tag2 on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Mar 2025 23:26:00 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 10 Mar 2025 23:26:00 -0400</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>How Awesome Andre and Julian Are In this post, I want to take a moment to talk about two incredible individuals: Andre and Julian. Their dedication, hard work, and positive attitudes have been truly inspiring. Andre&amp;rsquo;s innovative thinking and Julian&amp;rsquo;s meticulous attention to detail have significantly contributed to our team&amp;rsquo;s success. They are both awesome in their unique ways, and I am grateful to have them as colleagues and friends.</description>
+    </item>
+  </channel>
+</rss>
